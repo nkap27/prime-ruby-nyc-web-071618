@@ -1,7 +1,6 @@
 def prime(int)
-  range = 2..9
 
-  range.each do |num|
+  2..9.each do |num|
     if int % num == 0
       return false
     else
