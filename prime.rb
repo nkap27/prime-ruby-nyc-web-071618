@@ -6,5 +6,4 @@ def prime(int)
     else
       return true
   end
-
 end
